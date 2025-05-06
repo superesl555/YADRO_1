@@ -1,0 +1,6 @@
+{
+    "readDelayMs": 5,
+    "writeDelayMs": 5,
+    "moveDelayMs": 10
+  }
+  
